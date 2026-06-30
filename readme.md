@@ -18,9 +18,9 @@ Everything becomes available with a single command.
 
 
 ### [Macros](/Macros/)
-1. [⚠️](/Macros/convertToJson/convertToJson.ftl) [convertToJson](/Macros/convertToJson/)
-2. [⚠️](/Macros/jsonToTable/jsonToTable.ftl) [jsonToTable](/Macros/jsonToTable/)
-3. [⚠️](/Macros/objectToCSV/objectToCSV.ftl) [objectToCsv](/Macros/objectToCSV/)
+1. [©️](/Macros/convertToJson/convertToJson.ftl) [convertToJson](/Macros/convertToJson/)
+2. [©️](/Macros/jsonToTable/jsonToTable.ftl) [jsonToTable](/Macros/jsonToTable/)
+3. [©️](/Macros/objectToCSV/objectToCSV.ftl) [objectToCsv](/Macros/objectToCSV/)
 
 
 ### [Regular Expressions](/Regular%20Expressions/)
