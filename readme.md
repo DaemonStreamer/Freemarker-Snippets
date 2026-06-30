@@ -12,9 +12,9 @@ Everything becomes available with a single command.
 
 ### [Functions](/Functions/)
 1. [©️](/Functions/getNextOccurenceOfWeekday.ftl) [getNextOccurenceOfWeekday](/Functions/getNextOccurenceOfWeekday.ftl)
-1. [⚠️](/Functions/addToDatetime/addToDatetimeV2.ftl) [addToDatetime](/Functions/addToDatetime/) 
-2. [⚠️](/Functions/changeTimezone/changeTimezone.ftl) [changeTimezone](/Functions/changeTimezone/) 
-3. [⚠️](/Functions/csvObject/csvObject.ftl) [csvObject](/Functions/csvObject/) 
+1. [©️](/Functions/addToDatetime/addToDatetimeV2.ftl) [addToDatetime](/Functions/addToDatetime/) 
+2. [©️](/Functions/changeTimezone/changeTimezone.ftl) [changeTimezone](/Functions/changeTimezone/) 
+3. [©️](/Functions/csvObject/csvObject.ftl) [csvObject](/Functions/csvObject/) 
 
 
 ### [Macros](/Macros/)
