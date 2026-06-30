@@ -1,0 +1,1 @@
+(?<title>(?<titleTagStart>(?:<\w+?\d.{0,25}>|<\w+>|))(?<titleEmoji>(?:🧾|🏢|🧑‍💼|🌍|🧑‍💻|🪙|✏️|📄|📝|📋))(?<titleText>.*?)(?<titleTagEnd>(?:</.*?>){1,3}))(?:- |)(?<content>.*?)(?=<\w\d.{0,1}>|■)
